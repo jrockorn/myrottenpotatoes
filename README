@@ -120,7 +120,7 @@ Finally, when you're ready to resume execution, you can enter "cont".
 == Console
 
 The console is a Ruby shell, which allows you to interact with your
-application's domain model. Here you'll have all parts of the application
+application's domain model. Here you will have all parts of the application
 configured, just like it is when the application is running. You can inspect
 domain models, change values, and save to the database. Starting the script
 without arguments will launch it in the development environment.
